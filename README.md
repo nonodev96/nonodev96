@@ -1,4 +1,4 @@
-### Hi 👋 I'm Antonio Mudarra 🤪
+### Hi 👋 I'm Antonio Mudarra
 
 - 🏠 Living in Jaén
 - 🎓 I study at the university of jaén
