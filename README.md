@@ -4,7 +4,7 @@
 - 🎓 I study at the university of jaén
 - 📗 I’m currently learning GitLab CI/CD
 - 🖼 Frontend Developer (HTML, CSS, JS, AngularJS, Typescript)
-- 🖥 Backend Developer (PHP, Ruby, NodeJS, Go)
+- 🖥 Backend Developer (PHP, Python, NodeJS)
 - 🧙🏽‍♂️ DevOps (Docker, Github Actions)
 - 📗 I’m currently learning Github Actions && GitLab CI/CD
 
