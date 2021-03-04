@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Antonio Mudarra
 
-<a href="https://github.com/nonodev96"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=nonodev96&show_icons=true&theme=radical" align="right" height="200" /></a>
+<a href="https://github.com/nonodev96"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=nonodev96&show_icons=true&theme=radical" align="right" height="150" /></a>
 
 - 🏠 Living in Jaén
 - 🎓 I study at the university of jaén
