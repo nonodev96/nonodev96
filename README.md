@@ -4,9 +4,6 @@
 
 - 🏠 Living in Jaén
 - 🎓 I study at the university of jaén
-- 🖼 Frontend Developer (HTML, CSS, JS, Angular, Typescript)
-- 🖥 Backend Developer (PHP, Python, NodeJS)
-- 🧙🏽‍♂️ DevOps (Docker, Github Actions)
 - 📗 I’m currently learning Github Actions && GitLab CI/CD
 
 <h3> 🛠 Tech Stack</h3>
