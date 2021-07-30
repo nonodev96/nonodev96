@@ -6,7 +6,7 @@
 - 🎓 I study at the university of jaén
 - 📗 I’m currently learning Github Actions && GitLab CI/CD
 
-<h3> 🛠 Tech Stack</h3>
+### 🛠 Tech Stack
 
 - 📱 Mobile:
   ![Java](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java&logoColor=FFF)
