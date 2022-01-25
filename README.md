@@ -8,9 +8,10 @@
 
 ### 🛠 Tech Stack
 
-- 📱 Mobile:
+- 📱 Mobile/Desktop:
   ![Java](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java&logoColor=FFF)
   ![Ionic](https://img.shields.io/badge/-Ionic-0A1A2F?style=flat&logo=Ionic)
+  ![Electron](https://img.shields.io/badge/-Electron-0A1A2F?style=flat&logo=electron)
 
 - 🗄 Backend:
   ![PHP](https://img.shields.io/badge/-PHP-0A1A2F?style=flat&logo=php)
@@ -31,7 +32,6 @@
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
   ![Gitlab](https://img.shields.io/badge/-Gitlab-0A1A2F?style=flat&logo=gitlab)
-  ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
 
 - 🔧 IDE's:
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
