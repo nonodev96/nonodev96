@@ -12,6 +12,7 @@
   ![Java](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java&logoColor=FFF)
   ![Ionic](https://img.shields.io/badge/-Ionic-0A1A2F?style=flat&logo=Ionic)
   ![Electron](https://img.shields.io/badge/-Electron-0A1A2F?style=flat&logo=electron)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-0A1A2F?style=flat&logo=Kotlin)
 
 - 🗄 Backend:
   ![PHP](https://img.shields.io/badge/-PHP-0A1A2F?style=flat&logo=php)
@@ -23,6 +24,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-0A1A2F?style=flat&logo=typescript)
   ![Angular](https://img.shields.io/badge/-Angular-0A1A2F?style=flat&logo=angular)
+  ![Firebase](https://img.shields.io/badge/-Firebase-0A1A2F?style=flat&logo=firebase)
 
 - 🛢 Database:
   ![SQL](https://img.shields.io/badge/-SQL-0A1A2F?style=flat&logo=sql&logoColor=00d8fd)
@@ -46,7 +48,28 @@
 
 - 🖥 Design:
   ![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd)
+  
+- 📚 Languages:
+  - 🧙🏻 High level:
+  ![PHP](https://img.shields.io/badge/-PHP-0A1A2F?style=flat&logo=PHP)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=JavaScript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-0A1A2F?style=flat&logo=typescript)
+  - 🔮 Mid level:
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-0A1A2F?style=flat&logo=Kotlin)
+  ![Swift](https://img.shields.io/badge/-Swift-0A1A2F?style=flat&logo=Swift)
+  ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=Python)
+  ![Rust](https://img.shields.io/badge/-Rust-0A1A2F?style=flat&logo=Rust)
+  ![C99](https://img.shields.io/badge/-C99-0A1A2F?style=flat&logo=C)
+  ![C++](https://img.shields.io/badge/-C++-0A1A2F?style=flat&logo=cplusplus)
+  ![C#](https://img.shields.io/badge/-CSharp-0A1A2F?style=flat&logo=csharp)
+  - 🃏 Low level:
+  ![Julia](https://img.shields.io/badge/-Julia-0A1A2F?style=flat&logo=Julia)
+  ![Haskell](https://img.shields.io/badge/-Haskell-0A1A2F?style=flat&logo=Haskell)
+  ![Ruby](https://img.shields.io/badge/-Ruby-0A1A2F?style=flat&logo=Ruby)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nonodev96&repo=relife)](https://github.com/nonodev96/relife)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nonodev96&repo=relife-cloud)](https://github.com/nonodev96/relife-cloud)
+| Cliente | Servidor |
+| ------------- | ------------- |
+| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nonodev96&repo=relife)](https://github.com/nonodev96/relife)     | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nonodev96&repo=relife-cloud)](https://github.com/nonodev96/relife-cloud)     |
+| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nonodev96&repo=THUMDER)](https://github.com/nonodev96/THUMDER)   | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nonodev96&repo=THUMDER-server)](https://github.com/nonodev96/THUMDER-server) |
+
