@@ -4,7 +4,7 @@
 
 - 🏠 Living in Jaén
 - 🎓 I study at the university of jaén
-- 📗 I’m currently learning Github Actions && GitLab CI/CD
+- 📗 I’m currently learning cyber security 
 
 ### 🛠 Tech Stack
 
@@ -54,14 +54,14 @@
   ![PHP](https://img.shields.io/badge/-PHP-0A1A2F?style=flat&logo=PHP)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=JavaScript)
   ![Typescript](https://img.shields.io/badge/-Typescript-0A1A2F?style=flat&logo=typescript)
+  ![C++](https://img.shields.io/badge/-C++-0A1A2F?style=flat&logo=cplusplus)
   - 🔮 Mid level:
+  ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=Python)
+  ![C99](https://img.shields.io/badge/-C99-0A1A2F?style=flat&logo=C)
+  ![C#](https://img.shields.io/badge/-CSharp-0A1A2F?style=flat&logo=csharp)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-0A1A2F?style=flat&logo=Kotlin)
   ![Swift](https://img.shields.io/badge/-Swift-0A1A2F?style=flat&logo=Swift)
-  ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=Python)
   ![Rust](https://img.shields.io/badge/-Rust-0A1A2F?style=flat&logo=Rust)
-  ![C99](https://img.shields.io/badge/-C99-0A1A2F?style=flat&logo=C)
-  ![C++](https://img.shields.io/badge/-C++-0A1A2F?style=flat&logo=cplusplus)
-  ![C#](https://img.shields.io/badge/-CSharp-0A1A2F?style=flat&logo=csharp)
   - 🃏 Low level:
   ![Julia](https://img.shields.io/badge/-Julia-0A1A2F?style=flat&logo=Julia)
   ![Haskell](https://img.shields.io/badge/-Haskell-0A1A2F?style=flat&logo=Haskell)
