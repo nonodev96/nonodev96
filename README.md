@@ -2,7 +2,7 @@
 
 <a href="https://github.com/nonodev96"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=nonodev96&show_icons=true&theme=radical" align="right" height="150" /></a>
 
-- 🎓 Work at the university of Jaén
+- 🎓 Working at the university of Jaén
 
 ### 🛠 Tech Stack
 
