@@ -71,3 +71,6 @@
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nonodev96&repo=relife)](https://github.com/nonodev96/relife)     | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nonodev96&repo=relife-cloud)](https://github.com/nonodev96/relife-cloud)     |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nonodev96&repo=THUMDER)](https://github.com/nonodev96/THUMDER)   | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nonodev96&repo=THUMDER-server)](https://github.com/nonodev96/THUMDER-server) |
 
+
+![Visitor Count](https://profile-counter.glitch.me/nonodev96/count.svg)
+
