@@ -73,6 +73,19 @@
 
 ![profile-3d-contrib](./profile-3d-contrib/profile-custom-rainbow.svg)
 
+### 🏗 Projects
+
+- https://devfest-jaen-2023.netlify.app/
+- https://ingeniatech-jaen-2024.netlify.app/
+- https://simidat.ujaen.es/n4l
+- https://simidat.ujaen.es/n4l-beta
+- https://thumder.netlify.app/
+- https://github.com/nonodev96/muse
+- https://github.com/nonodev96/relife
+- https://github.com/nonodev96/handsign-multilingual
 
 ![Visitor Count](https://profile-counter.glitch.me/nonodev96/count.svg)
+
+
+
 
